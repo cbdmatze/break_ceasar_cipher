@@ -1,1 +1,3 @@
-def fdadsdfdsf
+import string
+
+def encrypt_char
